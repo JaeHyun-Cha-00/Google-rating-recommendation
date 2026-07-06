@@ -86,6 +86,6 @@ This project is contained within a Jupyter Notebook (`Assignment2.ipynb`).
 
 ### Execution
 
-1.  Download the dataset files (`review-Vermont_10.json.gz` and `meta-Vermont.json.gz`) from the [https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal](UCSD Google Local Datasets page) and place them in the root directory of the project.
+1.  Download the dataset files (`review-Vermont_10.json.gz` and `meta-Vermont.json.gz`) from the [https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal] (UCSD Google Local Datasets page) and place them in the root directory of the project.
 2.  Launch Jupyter and open `Assignment2.ipynb`.
 3.  Run the cells sequentially to reproduce the analysis, model training, and evaluation.
